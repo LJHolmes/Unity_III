@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trump
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 724ffdc802dd79b4b949aa7dca624a4b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0761025252b1fb94b9c5fb0325b789a0, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
