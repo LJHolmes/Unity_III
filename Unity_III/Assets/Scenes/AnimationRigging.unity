@@ -923,7 +923,7 @@ MonoBehaviour:
     m_Bits: 1
   body: {fileID: 1714881696}
   otherFoot: {fileID: 1960203658}
-  speed: 3
+  speed: 4
   stepDistance: 0.25
   stepLength: 0.25
   stepHeight: 0.15
@@ -1927,7 +1927,7 @@ MonoBehaviour:
     m_Bits: 1
   body: {fileID: 1714881696}
   otherFoot: {fileID: 656423198}
-  speed: 3
+  speed: 4
   stepDistance: 0.25
   stepLength: 0.25
   stepHeight: 0.15
